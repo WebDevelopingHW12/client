@@ -1,5 +1,7 @@
 # client
-客户端项目使用Vue框架搭建，具体安装方法如下：
+客户端项目使用Vue框架搭建。
+
+## Install and Run
 ``` bash
 # 安装Vue命令行工具
 npm install --global vue-cli
