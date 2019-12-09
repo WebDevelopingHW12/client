@@ -6,10 +6,6 @@
 # 安装Vue命令行工具
 npm install --global vue-cli
 
-# 安装一个新项目（此步骤省略）
-npm install -g @vue/cli-init
-vue init webpack my-project
-
 # 安装依赖
 cd 项目所在的文件夹
 npm install
